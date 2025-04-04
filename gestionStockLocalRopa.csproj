@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\BaseDatos.cs" />
+    <Compile Include="Clases\Botines.cs" />
     <Compile Include="Clases\Camisetas.cs" />
     <Compile Include="Clases\Producto.cs" />
     <Compile Include="Clases\Ventas.cs" />
